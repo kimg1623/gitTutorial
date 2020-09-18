@@ -2,3 +2,4 @@ sample01
 plus text
 add 변경사항 인덱스에 등록하기
 pull 원격저장소 내용 가져오기
+commit 인덱스의 상태를 기록하기
